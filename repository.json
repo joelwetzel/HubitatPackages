@@ -15,6 +15,13 @@
 			"tags": [ "Presence & Location", "Safety & Security" ],
 			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Combined-Presence/master/packageManifest.json",
 			"description": "Combine two or more presence sensors to control an output Virtual Presence Sensor."
+		},
+		{
+			"name": "Dimmer Minimums",
+			"category": "Control",
+			"tags": [ "Lights & Switches" ],
+			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Dimmer-Minimums/master/packageManifest.json",
+			"description": "Enforce minimum dimming levels for smart dimmers that don't support it natively in their firmware."
 		}
 	]
 	
