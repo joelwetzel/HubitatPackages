@@ -8,6 +8,13 @@
 			"tags": [ "Window Coverings" ],
 			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Auto-Shades/master/packageManifest.json",
 			"description": "Automatically control smartblinds and shades, by integrating with a light sensor."
+		},
+		{
+			"name": "Combined Presence",
+			"category": "Security",
+			"tags": [ "Presence & Location", "Safety & Security" ],
+			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Combined-Presence/master/packageManifest.json",
+			"description": "Combine two or more presence sensors to control an output Virtual Presence Sensor."
 		}
 	]
 	
