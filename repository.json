@@ -1,0 +1,13 @@
+{
+	"author": "Joel Wetzel",
+	"gitHubUrl": "https://github.com/joelwetzel/",
+	"packages": [
+		{
+			"name": "Auto Shades",
+			"tags": [ "Window Coverings" ],
+			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Auto-Shades/master/packageManifest.json",
+			"description": "Automatically control smartblinds and shades, by integrating with a light sensor."
+		}
+	]
+	
+}
