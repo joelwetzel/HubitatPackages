@@ -64,6 +64,13 @@
 			"tags": [ "Presence & Location" ],
 			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-iPhone-Presence-Sensor/master/packageManifest.json",
 			"description": "Detect presence of either an iPhone or an Android smartphone.  It detects that they have connected to your home network."
+		},
+		{
+			"name": "IKEA Trådfri Puck Driver",
+			"category": "Control",
+			"tags": [ "Lights & Switches" ],
+			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-IKEA-Tradfri/master/packageManifest.json",
+			"description": "A driver for the IKEA puck device."
 		}
 	]
 	
