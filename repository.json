@@ -29,6 +29,13 @@
 			"tags": [ "Locks", "Safety & Security" ],
 			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Lockdown/master/packageManifest.json",
 			"description": "Reliably lock all locks in your house when a specified switch is triggered."
+		},
+		{
+			"name": "Reliable Locks",
+			"category": "Security",
+			"tags": [ "Locks", "Safety & Security" ],
+			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Reliable-Locks/master/packageManifest.json",
+			"description": "Create virtual locks that 'wrap' your physical lock devices, making them more reliable.  Especially useful for z-wave locks."
 		}
 	]
 	
