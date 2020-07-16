@@ -57,6 +57,13 @@
 			"tags": [ "Presence & Location" ],
 			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-HTTP-Presence-Sensor/master/packageManifest.json",
 			"description": "A virtual presence sensor that determines its state by trying to contact a device on your network."
+		},
+		{
+			"name": "iPhone WiFi Presence Sensor",
+			"category": "Control",
+			"tags": [ "Presence & Location" ],
+			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-iPhone-Presence-Sensor/master/packageManifest.json",
+			"description": "Detect presence of either an iPhone or an Android smartphone.  It detects that they have connected to your home network."
 		}
 	]
 	
