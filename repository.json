@@ -26,7 +26,7 @@
 		{
 			"name": "Lockdown",
 			"category": "Security",
-			"tags": [ "Doors & Windows", "Safety & Security" ],
+			"tags": [ "Locks", "Safety & Security" ],
 			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Lockdown/master/packageManifest.json",
 			"description": "Reliably lock all locks in your house when a specified switch is triggered."
 		}
