@@ -50,6 +50,13 @@
 			"tags": [ "Lights & Switches", "Buttons" ],
 			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Cooper-Aspire-Scene-Controller/master/packageManifest.json",
 			"description": "Driver for the Cooper Aspire RFWC5 Scene Controller."
+		},
+		{
+			"name": "HTTP Presence Sensor",
+			"category": "Control",
+			"tags": [ "Presence & Location" ],
+			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-HTTP-Presence-Sensor/master/packageManifest.json",
+			"description": "A virtual presence sensor that determines its state by trying to contact a device on your network."
 		}
 	]
 	
