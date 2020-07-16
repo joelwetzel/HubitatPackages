@@ -43,6 +43,13 @@
 			"tags": [ "Lights & Switches" ],
 			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Switch-Bindings/master/packageManifest.json",
 			"description": "Bind two or more switches/dimmers together to behave as one."
+		},
+		{
+			"name": "Cooper Aspire RFWC5 Scene Controller Driver",
+			"category": "Control",
+			"tags": [ "Lights & Switches", "Buttons" ],
+			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Cooper-Aspire-Scene-Controller/master/packageManifest.json",
+			"description": "Driver for the Cooper Aspire RFWC5 Scene Controller."
 		}
 	]
 	
