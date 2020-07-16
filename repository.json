@@ -29,6 +29,13 @@
 			"tags": [ "Locks", "Safety & Security" ],
 			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Reliable-Locks/master/packageManifest.json",
 			"description": "Create virtual locks that wrap your physical lock devices, making them more reliable.  Especially useful for z-wave locks."
+		},
+		{
+			"name": "Switch Bindings",
+			"category": "Control",
+			"tags": [ "Lights & Switches" ],
+			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-Switch-Bindings/master/packageManifest.json",
+			"description": "Bind two or more switches/dimmers together to behave as one."
 		}
 	]
 	
