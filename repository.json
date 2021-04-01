@@ -71,6 +71,13 @@
 			"tags": [ "Lights & Switches" ],
 			"location": "https://raw.githubusercontent.com/joelwetzel/Hubitat-IKEA-Tradfri/master/packageManifest.json",
 			"description": "A driver for the IKEA puck device."
+		},
+		{
+			"name": "Double Tap to the Max",
+			"category": "Control",
+			"tags": [ "Lights & Switches" ],
+			"location": "https://raw.githubusercontent.com/joelwetzel/DoubleTapToTheMax/main/packageManifest.json",
+			"description": "Double tap on your dimmers to bring them to max/min brightness."
 		}
 	]
 	
